@@ -1,0 +1,169 @@
+[
+  {
+    "id": "natal",
+    "name": "Letreiro Feliz Natal",
+    "description": "Um toque de encanto para a sua decoração de Natal.",
+    "price": 25,
+    "category": "Decoração",
+    "image": "/products/natal.jpg",
+    "details": "19 cm de largura • 9,5 cm de altura • 2,5 cm de profundidade. Valor por unidade.",
+    "active": true,
+    "video": "/videos/e61cbf48-6f67-4088-a393-0ae2f243f461.mp4",
+    "images": [
+      "/products/natal.jpg",
+      "/products/migrated-6cad2039-f8c8-4609-acd2-b87f4812c625.png",
+      "/products/migrated-917b1d68-d749-4ae9-99f1-5252fd2e39e8.png",
+      "/products/migrated-dfa1f9f4-47bf-47b6-b485-21fb6b2ed45d.png",
+      "/products/migrated-1f751643-027b-4abf-b4c9-761914a1f011.png",
+      "/products/migrated-bae95261-aa32-4892-a9b0-818e3756d85f.png"
+    ],
+    "deleted": false
+  },
+  {
+    "id": "ponteiras",
+    "name": "Ponteiras personalizadas",
+    "description": "O nome que você escolher, em uma lembrança cheia de cor.",
+    "price": 6,
+    "category": "Personalizados",
+    "image": "/products/ponteiras.jpg",
+    "details": "Cores: rosa, azul e verde. Acima de 10 unidades: R$ 5 cada; acima de 20: R$ 4 cada; acima de 30: R$ 3 cada. Consulte a personalização pelo WhatsApp.",
+    "active": true,
+    "images": [
+      "/products/ponteiras.jpg"
+    ],
+    "video": ""
+  },
+  {
+    "id": "gatinho",
+    "name": "Vaso decorativo Gatinho",
+    "description": "Um cantinho mais charmoso com esse gatinho especial.",
+    "price": 30,
+    "category": "Decoração",
+    "image": "/products/gatinho.jpg",
+    "details": "17 cm de largura • 12 cm de altura • 11 cm de profundidade. Consulte cores e conteúdo da embalagem.",
+    "active": true,
+    "video": "/videos/590d7b3a-0c0e-425c-bb0a-3eb313a2e2f8.mp4",
+    "images": [
+      "/products/gatinho.jpg"
+    ],
+    "deleted": false
+  },
+  {
+    "id": "retratos",
+    "name": "Porta-retratos magnéticos Para Geladeira",
+    "description": "Suas memórias favoritas pertinho de você, na geladeira.",
+    "price": 30,
+    "category": "Personalizados",
+    "image": "/products/retratos.jpg",
+    "details": "Kit com 3 unidades e fotos inclusas. Envie suas fotos pelo WhatsApp para combinar a personalização.",
+    "active": true,
+    "video": "/videos/606b89a1-6c2e-4d3f-b9e3-37bab8a20cc3.mp4",
+    "images": [
+      "/products/retratos.jpg"
+    ],
+    "deleted": false
+  },
+  {
+    "id": "mini-presentes-natal",
+    "name": "Mini presentes decorativos de Natal",
+    "description": "Dê um toque de cor às suas composições natalinas com mini enfeites em formato de presente com laço. Combine em mesas, prateleiras e cenários de Natal.",
+    "price": 10,
+    "category": "Decoração",
+    "image": "/products/mini-01_Criativo.webp",
+    "details": "Material: PLA.\nMedidas de cada peça: 1,5 cm de largura x 1,5 cm de profundidade x 2 cm de altura total, incluindo o laço.\nCores sortidas: vermelho/branco, branco/vermelho, branco/dourado, verde/branco e azul/amarelo.\nAs cores são enviadas aleatoriamente, semelhantes às fotos. Não há escolha de cor nem garantia de proporção entre as combinações.\nOpções deste anúncio: 5, 10, 15, 20, 25 ou 30 presentes.\n\nCONTEÚDO DA EMBALAGEM\nKit com 5, 10, 15, 20, 25 ou 30 mini presentes decorativos, conforme a opção selecionada. Cada grupo de 5 corresponde a um conjunto.\nSomente os mini presentes estão inclusos. Árvores, boneco de neve, lareira, lanterna e demais itens das imagens não acompanham o kit.",
+    "active": true,
+    "video": "",
+    "images": [
+      "/products/mini-01_Criativo.webp",
+      "/products/mini-02_Criativo.webp",
+      "/products/mini-03_Criativo.webp",
+      "/products/mini-04_Criativo.webp",
+      "/products/mini-05_Criativo.webp",
+      "/products/mini-06_Criativo.webp",
+      "/products/mini-07_Criativo.webp",
+      "/products/mini-08_Criativo.webp",
+      "/products/mini-09_Criativo.webp",
+      "/products/migrated-1eb8854a-f8d9-45ad-8971-6ad097eb2ae3.png"
+    ],
+    "variants": [
+      {
+        "quantity": 5,
+        "price": 10,
+        "image": "/products/mini-Quantidade_05_Presentes.webp"
+      },
+      {
+        "quantity": 10,
+        "price": 15,
+        "image": "/products/mini-Quantidade_10_Presentes.webp"
+      },
+      {
+        "quantity": 15,
+        "price": 20,
+        "image": "/products/mini-Quantidade_15_Presentes.webp"
+      },
+      {
+        "quantity": 20,
+        "price": 25,
+        "image": "/products/mini-Quantidade_20_Presentes.webp"
+      },
+      {
+        "quantity": 25,
+        "price": 30,
+        "image": "/products/mini-Quantidade_25_Presentes.webp"
+      },
+      {
+        "quantity": 30,
+        "price": 35,
+        "image": "/products/mini-Quantidade_30_Presentes.webp"
+      }
+    ],
+    "deleted": false
+  },
+  {
+    "id": "kit-natal-casa-noel-pinheiro",
+    "name": "Kit Decoração de Natal com Bandeja Casa Branca Papai Noel e Pinheiro Enfeite para Mesa Aparador",
+    "description": "Uma composição natalina para decorar mesas, aparadores e prateleiras.",
+    "price": 50,
+    "category": "Decoração",
+    "image": "/products/kit-casa-noel-pinheiro-01.webp",
+    "images": [
+      "/products/kit-casa-noel-pinheiro-01.webp",
+      "/products/kit-casa-noel-pinheiro-02.webp",
+      "/products/kit-casa-noel-pinheiro-03.webp",
+      "/products/kit-casa-noel-pinheiro-04.webp",
+      "/products/kit-casa-noel-pinheiro-05.webp",
+      "/products/kit-casa-noel-pinheiro-06.webp",
+      "/products/kit-casa-noel-pinheiro-07.webp",
+      "/products/kit-casa-noel-pinheiro-08.webp",
+      "/products/kit-casa-noel-pinheiro-09.webp"
+    ],
+    "details": "KIT DECORAÇÃO DE NATAL COM BANDEJA\n\nUma composição natalina para decorar mesas, aparadores e prateleiras. A casa branca, o Papai Noel sentado e o pinheiro com estrela dourada formam um conjunto para deixar seu cantinho no clima do Natal.\n\nCARACTERÍSTICAS\n- Material: PLA.\n- Bandeja oval branca com borda.\n- Casa branca com detalhes de portas, janelas, telhado e chaminé.\n- Papai Noel em vermelho, branco, bege e preto, com textura de tricô.\n- Pinheiro branco com tronco bege e estrela dourada.\n- Peso do conjunto sem embalagem: 150 g.\n\nDIMENSÕES DO KIT MONTADO\n- Largura: 19 cm.\n- Profundidade: 9 cm.\n- Altura: 11 cm.\n\nCONTEÚDO DA EMBALAGEM\n- 1 bandeja branca.\n- 1 casa branca.\n- 1 Papai Noel.\n- 1 pinheiro de Natal.\n\nEsta compra contém 1 kit completo. Outros objetos usados na ambientação das fotos não acompanham o produto.",
+    "active": true,
+    "video": ""
+  },
+  {
+    "id": "unishop-ea2b7a85-bc54-47b1-92f9-c30e5ca40f91",
+    "name": "Papai Noel decorativo sentado 7 cm — efeito tricô",
+    "description": "PAPAI NOEL DECORATIVO SENTADO COM EFEITO TRICÔ\n\nUm detalhe natalino para compor mesas, aparadores, estantes e prateleiras. Com gorro vermelho, barba branca e sapatinhos pretos, este Papai Noel sentado combina as cores tradicionais do Natal com uma textura em relevo que remete ao tricô.\n\nA peça é rígida, produzida em PLA, e tem 7 cm de altura. Seu tamanho compacto permite criar pequenos pontos de decoração ou combinar várias unidades na mesma composição.\n\nDETALHES QUE VALORIZAM A DECORAÇÃO\n- Textura em relevo com aparência de tricô no gorro, na roupa e na barba.\n- Formato sentado, conforme as fotos do produto.\n- Cores vermelho, branco, preto e tom de pele.\n- Tamanho compacto para composições em espaços pequenos.\n\nONDE USAR\nComponha a decoração de Natal sobre mesas, aparadores, estantes e prateleiras, sozinho ou junto de outros enfeites. Também é uma opção de lembrança para presentear na época natalina.\n\nMEDIDAS E MATERIAL\nAltura por peça: 7 cm.\nLargura por peça: 5,5 cm.\nProfundidade por peça: 4,5 cm.\nPeso líquido informado: 5 g por peça.\nMaterial: PLA.",
+    "price": 20,
+    "category": "Decoração",
+    "image": "/products/migrated-1d2795cb-e327-4f28-8be8-e2688353b659.jpg",
+    "details": "Conteúdo da compra: 1 unidade do produto. Preço informado para esta quantidade.\n\nMaterial: PLA.\n\nCores: Vermelho, branco, preto e tom de pele.\n\nMedidas por peça: 5.5 cm de largura × 7 cm de altura × 4.5 cm de profundidade.",
+    "active": true,
+    "video": "",
+    "images": [
+      "/products/migrated-1d2795cb-e327-4f28-8be8-e2688353b659.jpg",
+      "/products/migrated-cc8943af-0432-4f47-941a-5c3dd7457f56.jpg",
+      "/products/migrated-2ad7967e-9949-453d-a18c-209497735906.jpg",
+      "/products/migrated-5a224b27-c0df-404f-b190-1bcc3de803fb.jpg",
+      "/products/migrated-f5ea2b85-c716-4fc4-801d-95275b38da30.jpg",
+      "/products/migrated-389e9f4b-0aef-4b57-b0aa-c41ddc2eed12.jpg",
+      "/products/migrated-7132157d-b8cb-40ca-85ff-60a87ac92499.jpg",
+      "/products/migrated-4d6c6a7a-5f0a-4e8c-aa68-d1b6851bc72d.jpg",
+      "/products/migrated-2beef2ba-edd2-4f3e-823d-584b930bf21b.jpg",
+      "/products/migrated-b34c712f-f92d-4a54-af03-4c033081d4de.jpg"
+    ],
+    "variants": [],
+    "deleted": false
+  }
+]
