@@ -1,0 +1,9 @@
+'use client';
+import {useRef,useState} from 'react';
+import {ChevronLeft,ChevronRight} from 'lucide-react';
+import {productImages,type Product} from '../lib/products';
+export default function PhotoGallery({product}:{product:Product}){
+ const images=productImages(product);const track=useRef<HTMLDivElement>(null);const [active,setActive]=useState(0);
+ function go(index:number){const el=track.current;if(!el)return;const next=Math.max(0,Math.min(images.length-1,index));el.scrollTo({left:el.clientWidth*next,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});}
+ return <section className="photo-gallery" aria-label={'Fotos de '+product.name}><div className="gallery-main"><div className="gallery-track" ref={track} onScroll={()=>{const el=track.current;if(el&&el.clientWidth)setActive(Math.min(images.length-1,Math.round(el.scrollLeft/el.clientWidth)))}}>{images.map((url,i)=><div className="gallery-slide" key={url}><img src={url} alt={`${product.name} — foto ${i+1} de ${images.length}`} loading={i===0?'eager':'lazy'}/></div>)}</div>{images.length>1&&<><button type="button" className="gallery-prev" aria-label="Foto anterior" disabled={active===0} onClick={()=>go(active-1)}><ChevronLeft size={21}/></button><button type="button" className="gallery-next" aria-label="Próxima foto" disabled={active===images.length-1} onClick={()=>go(active+1)}><ChevronRight size={21}/></button><span className="gallery-count" aria-live="polite">{active+1} / {images.length}</span></>}</div>{images.length>1&&<><p className="gallery-hint">Deslize para ver mais fotos</p><div className="gallery-thumbs">{images.map((url,i)=><button type="button" key={url} aria-label={'Ver foto '+(i+1)} aria-pressed={active===i} className={active===i?'active':''} onClick={()=>go(i)}><img src={url} alt="" loading="lazy"/></button>)}</div></>}</section>
+}
